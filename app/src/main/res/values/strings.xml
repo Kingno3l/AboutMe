@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">King Immanuel</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Career advancement: Learning Android app development can open up new career opportunities in the mobile app development industry. It can also help me advance in my current career by adding valuable skills to my resume.  Entrepreneurship: I have an idea for a mobile app, and learning Android development can help me turn that idea into a reality. You can build and launch your own app on the Google Play Store.  Personal development: Learning a new skill like Android development can be a fulfilling experience that can help me grow personally and professionally. It can also provide a sense of accomplishment and boost your self-confidence. Overall, this course can provide me with the skills and knowledge needed to create functional and engaging Android mobile apps, and can help me achieve my goals in various ways.  taking this course will be a dream come true and I will be excited Coursera made it possible.</string>
+    <string name="what_is_your_nick_nam">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
